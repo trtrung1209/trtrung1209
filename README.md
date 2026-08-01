@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Tran%20Doan%20Trung&fontSize=32&fontAlignY=32&fontColor=ffffff&animation=fadeIn&desc=Embedded%20Software%20Engineer&descSize=13&descAlignY=44" /><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Tran%20Doan%20Trung&fontSize=32&fontAlignY=26&fontColor=ffffff&animation=fadeIn&desc=Embedded%20Software%20Engineer&descSize=14&descAlignY=48" /><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Real-time+systems+%7C+FreeRTOS+%7C+Embedded+C;ESP32+%C2%B7+STM32+%C2%B7+Raspberry+Pi+4" />
 </p>
 
@@ -48,10 +48,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trtrung1209&theme=catppuccin_mocha&hide_border=true" width="97%" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trtrung1209&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
 <br>
 
 ## 🐍 Contribution Snake
