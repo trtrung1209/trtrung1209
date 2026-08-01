@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tran%20Doan%20Trung&fontSize=36&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Embedded%20Software%20Engineer&descSize=15&descAlignY=48" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Tran%20Doan%20Trung&fontSize=34&fontAlignY=32&fontColor=ffffff&animation=fadeIn&desc=Embedded%20Software%20Engineer&descSize=14&descAlignY=44" />
 </p>
 
 <p align="center">
@@ -16,11 +16,17 @@
   <img src="https://komarev.com/ghpvc/?username=trtrung1209&style=for-the-badge&color=2c5364&label=Profile+Views" />
 </p>
 
-<br>
-
 <p align="center">
 🎓 Final-year Computer Engineering Technology student @ HCMUTE &nbsp;·&nbsp; 🔧 Embedded systems &amp; real-time control &nbsp;·&nbsp; 🌱 Learning Linux &amp; automotive-grade software practices
 </p>
+
+<br>
+
+## 💡 Quick look
+
+- 🎓 **Đồ án tốt nghiệp (DATN):** robot tự hành 2 bánh vi sai, chạy ROS2 Humble trên Raspberry Pi 4 (SLAM, Nav2, pure pursuit)
+- 🔬 **Nghiên cứu khoa học (NCKH):** structured pruning YOLOv8n để triển khai trên Edge AI
+- 💼 **Thực tập:** OneKiwi Technology — IoT, embedded systems, Edge AI
 
 <br>
 
@@ -56,6 +62,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trtrung1209&theme=catppuccin_mocha&hide_border=true" width="97%" />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=trtrung1209&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
 <br>
 
@@ -73,8 +82,4 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer" />
-</p>
-
-<p align="center">
-  📫 <a href="mailto:trtrung1209@gmail.com">trtrung1209@gmail.com</a> · <a href="https://www.linkedin.com/in/trtrung1209/">LinkedIn</a>
 </p>
