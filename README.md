@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Tran%20Doan%20Trung&fontSize=34&fontAlignY=32&fontColor=ffffff&animation=fadeIn&desc=Embedded%20Software%20Engineer&descSize=14&descAlignY=44" />
-</p>
-
-<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Tran%20Doan%20Trung&fontSize=32&fontAlignY=32&fontColor=ffffff&animation=fadeIn&desc=Embedded%20Software%20Engineer&descSize=13&descAlignY=44" /><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Real-time+systems+%7C+FreeRTOS+%7C+Embedded+C;ESP32+%C2%B7+STM32+%C2%B7+Raspberry+Pi+4" />
 </p>
 
@@ -10,23 +7,12 @@
   <a href="https://linkedin.com/in/trtrung1209"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:trtrung1209@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/trtrung1209"><img src="https://img.shields.io/badge/Thu_Duc,_HCMC-008080?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=trtrung1209&style=for-the-badge&color=2c5364&label=Profile+Views" />
 </p>
 
 <p align="center">
 🎓 Final-year Computer Engineering Technology student @ HCMUTE &nbsp;·&nbsp; 🔧 Embedded systems &amp; real-time control &nbsp;·&nbsp; 🌱 Learning Linux &amp; automotive-grade software practices
 </p>
-
-<br>
-
-## 💡 Quick look
-
-- 🎓 **Đồ án tốt nghiệp (DATN):** robot tự hành 2 bánh vi sai, chạy ROS2 Humble trên Raspberry Pi 4 (SLAM, Nav2, pure pursuit)
-- 🔬 **Nghiên cứu khoa học (NCKH):** structured pruning YOLOv8n để triển khai trên Edge AI
-- 💼 **Thực tập:** OneKiwi Technology — IoT, embedded systems, Edge AI
 
 <br>
 
